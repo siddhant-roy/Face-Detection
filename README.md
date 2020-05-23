@@ -5,4 +5,4 @@
 3) Go to terminal and run `python facedetection.py`.
 4) Add to this project by using the different opencv cascade files.
 
-##Enjoy !!!
+## Enjoy !!!
